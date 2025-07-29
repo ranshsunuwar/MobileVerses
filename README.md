@@ -1,6 +1,6 @@
 My 5th sem finall project  for (mobile shops)
 
-# 🛍️ Mobile Shop - Full Stack E-Commerce Web Application
+# 🛍️MobileVerse (Mobile Shop) - Full Stack E-Commerce Web Application
         A modern, full-featured e-commerce web application built with **React + Redux Toolkit (Frontend)** and 
         **Django + Django REST Framework (Backend)**.
 ## 📁 Project Structure
